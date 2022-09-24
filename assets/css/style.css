@@ -123,7 +123,7 @@ nav.navbar.bootsnav {
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 /*.navbar-brand*/
 
@@ -190,7 +190,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/hero/d-4.jpg)no-repeat;
+    background:url(../images/hero/d-3.jpg)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
