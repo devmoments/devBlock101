@@ -123,10 +123,10 @@ nav.navbar.bootsnav {
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
-.navbar-banner{
+.navbar-brand{
 text-transform: none;
 }
 /*.navbar-brand*/
